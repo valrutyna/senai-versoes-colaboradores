@@ -3,3 +3,5 @@ nota do Git
 
 texto 2 para tentativa de commit 2
 
+novo texto para tentativa de upload no repositorio remoto em 19 07
+
